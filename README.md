@@ -66,10 +66,6 @@ Desenvolvo sistemas que resolvem problemas reais do dia a dia de empresas: **aut
   <img src="https://streak-stats.demolab.com?user=ThiagoValiente&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Sequência de contribuições"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoValiente&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2030%20dias" width="100%" alt="Gráfico de atividade"/>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiagoValiente/ThiagoValiente/output/github-snake-dark.svg"/>
   <img src="https://raw.githubusercontent.com/ThiagoValiente/ThiagoValiente/output/github-snake.svg" width="100%" alt="Cobrinha comendo as contribuições"/>
