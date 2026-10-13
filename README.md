@@ -3,7 +3,24 @@
 
 ---
 
-Desenvolvo sistemas que resolvem problemas reais do dia a dia de empresas: **automação de atendimento via WhatsApp**, **integrações com APIs fiscais e ERPs**, **ferramentas para bancos Firebird** e **visão computacional**.
+Desenvolvo sistemas que resolvem problemas reais do dia a dia de empresas: **automação de atendimento via WhatsApp**, **integrações com APIs fiscais e ERPs**, **ferramentas para bancos Firebird** e **visão computacional**, além de cuidar da **infraestrutura Linux** onde essas aplicações rodam.
+
+### Linux & Infraestrutura
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white)
+
+- Administração de servidores Linux (Ubuntu/Debian) via SSH: usuários, permissões, pacotes e firewall
+- Deploy de aplicações Node.js e Python como serviços `systemd`, com Nginx como proxy reverso e HTTPS
+- Containers com Docker e Docker Compose (aplicação, banco PostgreSQL e Nginx)
+- Automação de rotinas com Shell Script e `cron`: backups, atualização e monitoramento
+- Redes e segurança: VPN IPSec, firewalls Fortinet e análise de logs (FortiAnalyzer)
 
 ### Tecnologias
 
