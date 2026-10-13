@@ -103,18 +103,50 @@ A programação entra como **complemento** ao trabalho de infraestrutura: automa
 
 ### Projetos desenvolvidos
 
+#### 🛡️ Infraestrutura, redes e segurança
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **FortiAnalyzer Reports** | App desktop que processa logs do FortiAnalyzer e gera relatórios de uso de rede em PDF | Python |
+| **Migrador de E-mail** | Migração de e-mails IMAP→IMAP, consolidação de contas e backup local (.mbox/.eml) | Python · imapsync |
+| **Compartilhamento Seguro** | Envio de arquivos self-hosted (estilo WeTransfer) com senha, link único e auditoria | NestJS · React · PostgreSQL · Docker |
+| **Monitor de Telas** | Visualização em tempo real das telas de várias máquinas via WebSocket (agente, relay e painel) | Node.js · WebSocket |
+
+#### 💬 WhatsApp e atendimento
 | Projeto | Descrição | Stack |
 |---|---|---|
 | **UltraConnect** | CRM e central de atendimento via WhatsApp para múltiplos atendentes | Electron · Node.js |
 | **ZapUltra** | API própria de WhatsApp multi-instância, com painel web, JWT e API Key | NestJS · TypeScript |
-| **IBUltra** | Ferramenta desktop de administração de bancos Firebird com assistente de IA e servidor de licenciamento | C# · .NET · WPF |
-| **Truck Logo Monitor** | Identificação de marcas/logos de caminhões em câmeras IP, em tempo real | Python · YOLOv8 |
+| **Ultra Ger Contato** | Aplicativo desktop para monitoramento de conversas do WhatsApp | Electron · Node.js · SQLite |
 | **Disparo WhatsApp Boletos** | Avisos automáticos de vencimento de boletos via WhatsApp | Node.js · Firebird |
-| **API NFS-e** | Cliente e testes para o Emissor Público Nacional de NFS-e | Python |
-| **Compartilhamento Seguro** | Envio de arquivos self-hosted (estilo WeTransfer) com senha e auditoria | NestJS · React · PostgreSQL |
+| **Sala de Atendimento** | Painel em tempo real dos atendimentos técnicos, integrado ao WhatsApp e ao LogMeIn Rescue | Python · Firebird |
+
+#### 🗄️ Bancos Firebird e sistemas de gestão
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **IBUltra** | Ferramenta desktop de administração de bancos Firebird com assistente de IA (edições livre e licenciada, com servidor de licenças) | C# · .NET · WPF |
+| **Log de Acessos** | Painel que mostra em tempo real em qual tela do sistema de gestão cada usuário está | Python · Firebird |
+
+#### 🧾 Integrações fiscais e APIs
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **API NFS-e** | Cliente e testes para o Emissor Público Nacional de NFS-e, com múltiplos certificados | Python |
+| **Integração Laticínios** | Integração com a API Indústria Laticínio (PROAPE / Extra Leite — SEFAZ-MS) | Node.js |
+| **Teste API Odoo** | Interface para testar a API externa do Odoo (JSON-RPC) | Node.js |
+| **Atualiza CEP** | Consulta e atualização de CEPs e logradouros no cadastro de clientes | JavaScript · Python |
+
+#### 🤖 IA e visão computacional
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **Truck Logo Monitor** | Identificação de marcas/logos de caminhões em câmeras IP, em tempo real | Python · YOLOv8 |
 | **Clas Fotos** | Classificação automática de fotos de eventos com integração ao Lightroom | Python · OpenCV · MediaPipe |
 | **DocTela** | Gera manuais passo a passo automaticamente a partir da gravação da tela, com IA | Python |
 | **Jarvis** | Assistente de voz 100% local que conversa e controla o PC | Python · Ollama |
+
+#### 🧰 Utilitários e outros
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **Leitor QR Code** | Leitura de QR Code pela câmera, direto no navegador | React · Vite |
+| **Geladeira Ultra** | Controle de retiradas, pagamentos (Pix/dinheiro), caixa e estoque da geladeira da empresa | Node.js |
 | **Neon Survivors** | Jogo roguelite com integração à Steam | JavaScript · Electron |
 
 <sub>Todos os projetos estão ou estiveram em uso em produção. Os repositórios são privados por conterem sistemas de clientes; fico à disposição para apresentá-los.</sub>
