@@ -48,7 +48,9 @@ Profissional de **TI e infraestrutura Windows Server**: domínio, Active Directo
 - Automação de rotinas com Shell Script e `cron`: backups, atualização e monitoramento
 - Redes e segurança: VPN IPSec, firewalls Fortinet e análise de logs (FortiAnalyzer)
 
-### Tecnologias
+### Desenvolvimento aplicado
+
+Meu foco principal é infraestrutura. A programação entra como **complemento prático**: automatizo tarefas e crio sistemas para necessidades reais da empresa e de clientes. É um conhecimento construído na prática, projeto a projeto, e que sigo aprimorando.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
