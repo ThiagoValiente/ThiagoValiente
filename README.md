@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Thiago%20Alan%20Valiente&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20%C2%B7%20Ultra%20Sistemas&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Thiago%20Alan%20Valiente&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=Automa%C3%A7%C3%A3o+de+atendimento+via+WhatsApp;Integra%C3%A7%C3%B5es+fiscais+(NFS-e)+e+ERPs;Ferramentas+para+bancos+Firebird;Vis%C3%A3o+computacional+com+Python;Servidores+Linux%2C+Docker+e+Nginx" alt="Typing SVG"/>
