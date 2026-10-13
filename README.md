@@ -12,6 +12,8 @@ Meu foco é **Infraestrutura de TI**: Windows Server, Active Directory, gerencia
 
 Além disso, tenho **conhecimentos complementares** que aplico na prática, como monitoramento, segurança e desenvolvimento de sistemas, para resolver necessidades reais da empresa e de clientes.
 
+> ✅ **Tudo o que está listado aqui já foi aplicado em ambientes de produção**, em empresas e clientes reais.
+
 ## 🖥️ Foco principal: Infraestrutura de TI
 
 ### Windows Server, Active Directory & Virtualização
@@ -70,11 +72,11 @@ Além disso, tenho **conhecimentos complementares** que aplico na prática, como
 
 ## 🧩 Conhecimentos complementares
 
-<sub>Conhecimentos gerais que vou adquirindo e aplicando na prática, em projetos e no dia a dia, sempre a serviço da infraestrutura.</sub>
+<sub>Conhecimentos gerais que vou adquirindo e aplicando na prática, sempre a serviço da infraestrutura e com uso real em produção.</sub>
 
 ### Monitoramento & Segurança
 
-<sub>Conhecimento inicial, já aplicado em ambiente real.</sub>
+<sub>Conhecimento inicial, já aplicado em produção.</sub>
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-3595F7?style=flat&logo=wazuh&logoColor=white)
 ![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-5CDD8B?style=flat&logo=uptimekuma&logoColor=white)
@@ -115,7 +117,7 @@ A programação entra como **complemento** ao trabalho de infraestrutura: automa
 | **Jarvis** | Assistente de voz 100% local que conversa e controla o PC | Python · Ollama |
 | **Neon Survivors** | Jogo roguelite com integração à Steam | JavaScript · Electron |
 
-<sub>Os repositórios são privados por conterem sistemas de clientes. Fico à disposição para apresentar os projetos.</sub>
+<sub>Todos os projetos estão ou estiveram em uso em produção. Os repositórios são privados por conterem sistemas de clientes; fico à disposição para apresentá-los.</sub>
 
 ### Atividade
 
