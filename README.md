@@ -64,6 +64,16 @@ Profissional de **TI e infraestrutura Windows Server**: domínio, Active Directo
 - Containers com Docker e Docker Compose
 - Rotinas automatizadas com Shell Script e `cron` (backups e manutenção)
 
+### Monitoramento & Segurança
+
+<sub>Conhecimento inicial, já aplicado em ambiente real.</sub>
+
+![Wazuh](https://img.shields.io/badge/Wazuh-3595F7?style=flat&logo=wazuh&logoColor=white)
+![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-5CDD8B?style=flat&logo=uptimekuma&logoColor=white)
+
+- **Wazuh**: agentes nas máquinas, acompanhamento de alertas de segurança e eventos dos servidores
+- **Uptime Kuma**: monitoramento da disponibilidade de servidores, sites e serviços, com alertas quando algo cai
+
 ### Desenvolvimento aplicado
 
 Meu foco principal é infraestrutura. A programação entra como **complemento prático**: automatizo tarefas e crio sistemas para necessidades reais da empresa e de clientes. É um conhecimento construído na prática, projeto a projeto, e que sigo aprimorando.
