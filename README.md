@@ -1,5 +1,10 @@
-<h1 align="center">Thiago Alan Valiente</h1>
-<p align="center">Desenvolvedor na <b>Ultra Sistemas</b> · Marechal Cândido Rondon - PR</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Thiago%20Alan%20Valiente&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desenvolvedor%20%C2%B7%20Ultra%20Sistemas&descAlignY=58&descSize=18" width="100%"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=Automa%C3%A7%C3%A3o+de+atendimento+via+WhatsApp;Integra%C3%A7%C3%B5es+fiscais+(NFS-e)+e+ERPs;Ferramentas+para+bancos+Firebird;Vis%C3%A3o+computacional+com+Python;Servidores+Linux%2C+Docker+e+Nginx" alt="Typing SVG"/>
+</p>
+
+<p align="center">📍 Marechal Cândido Rondon - PR</p>
 
 ---
 
@@ -54,3 +59,20 @@ Desenvolvo sistemas que resolvem problemas reais do dia a dia de empresas: **aut
 | **Neon Survivors** | Jogo roguelite com integração à Steam | JavaScript · Electron |
 
 <sub>Os repositórios são privados por conterem sistemas de clientes. Fico à disposição para apresentar os projetos.</sub>
+
+### Atividade
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ThiagoValiente&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Sequência de contribuições"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoValiente&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2030%20dias" width="100%" alt="Gráfico de atividade"/>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThiagoValiente/ThiagoValiente/output/github-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/ThiagoValiente/ThiagoValiente/output/github-snake.svg" width="100%" alt="Cobrinha comendo as contribuições"/>
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%"/>
