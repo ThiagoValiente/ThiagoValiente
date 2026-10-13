@@ -1,16 +1,37 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Thiago%20Alan%20Valiente&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=Automa%C3%A7%C3%A3o+de+atendimento+via+WhatsApp;Integra%C3%A7%C3%B5es+fiscais+(NFS-e)+e+ERPs;Ferramentas+para+bancos+Firebird;Vis%C3%A3o+computacional+com+Python;Servidores+Linux%2C+Docker+e+Nginx" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=Windows+Server+e+Active+Directory;Virtualiza%C3%A7%C3%A3o+e+m%C3%A1quinas+virtuais;Automa%C3%A7%C3%A3o+de+atendimento+via+WhatsApp;Integra%C3%A7%C3%B5es+fiscais+(NFS-e)+e+ERPs;Ferramentas+para+bancos+Firebird;Vis%C3%A3o+computacional+com+Python;Servidores+Linux%2C+Docker+e+Nginx" alt="Typing SVG"/>
 </p>
 
 <p align="center">📍 Marechal Cândido Rondon - PR</p>
 
 ---
 
-Desenvolvo sistemas que resolvem problemas reais do dia a dia de empresas: **automação de atendimento via WhatsApp**, **integrações com APIs fiscais e ERPs**, **ferramentas para bancos Firebird** e **visão computacional**, além de cuidar da **infraestrutura Linux** onde essas aplicações rodam.
+Profissional de **TI e infraestrutura Windows Server**: domínio, Active Directory, gerenciamento de usuários, políticas de grupo, servidores e máquinas virtuais. Também desenvolvo sistemas que resolvem problemas reais do dia a dia de empresas: **automação de atendimento via WhatsApp**, **integrações com APIs fiscais e ERPs**, **ferramentas para bancos Firebird** e **visão computacional**.
 
-### Linux & Infraestrutura
+### Windows Server, Active Directory & Virtualização
+
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0A5CA8?style=flat)
+![GPO](https://img.shields.io/badge/GPO-1E4E8C?style=flat)
+![DNS / DHCP](https://img.shields.io/badge/DNS%20%2F%20DHCP-2B579A?style=flat)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat)
+![IIS](https://img.shields.io/badge/IIS-5E5E5E?style=flat)
+![Remote Desktop](https://img.shields.io/badge/Remote%20Desktop-00A4EF?style=flat)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+
+- Implantação e administração de **domínio Windows Server** (AD DS): controladores de domínio, OUs e estrutura organizacional
+- **Gerenciamento de usuários, grupos e computadores** no Active Directory: criação, permissões, bloqueio e redefinição de senhas
+- **Políticas de Grupo (GPO)**: mapeamento de unidades e impressoras, restrições, padronização de estações e segurança
+- **Servidor de arquivos** com permissões NTFS e compartilhamentos por departamento
+- **Virtualização** com Hyper-V e VMware: criação e administração de máquinas virtuais, snapshots, recursos e migração de servidores
+- **DNS e DHCP**, ingresso de máquinas no domínio e suporte às estações de trabalho
+- **Acesso remoto (RDP / Terminal Server)**, IIS e serviços Windows
+- **Backup, rotinas e automação** com PowerShell e scripts
+
+### Linux & Redes
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
