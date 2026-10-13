@@ -1,18 +1,22 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Thiago%20Alan%20Valiente&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=Windows+Server+e+Active+Directory;Virtualiza%C3%A7%C3%A3o+e+m%C3%A1quinas+virtuais;Firewall+FortiGate+e+VPN;Automa%C3%A7%C3%A3o+de+atendimento+via+WhatsApp;Integra%C3%A7%C3%B5es+fiscais+(NFS-e)+e+ERPs;Ferramentas+para+bancos+Firebird;Vis%C3%A3o+computacional+com+Python;Servidores+Linux%2C+Docker+e+Nginx" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=Infraestrutura+de+TI;Windows+Server+e+Active+Directory;Virtualiza%C3%A7%C3%A3o+e+m%C3%A1quinas+virtuais;Firewall+FortiGate+e+VPN;Servidores+Linux;Automa%C3%A7%C3%A3o+e+sistemas+sob+medida" alt="Typing SVG"/>
 </p>
 
 <p align="center">📍 Marechal Cândido Rondon - PR</p>
 
 ---
 
-Profissional de **TI e infraestrutura Windows Server**: domínio, Active Directory, gerenciamento de usuários, políticas de grupo, servidores e máquinas virtuais, além de **firewalls FortiGate** e **servidores Linux**. Uso a programação como ferramenta para resolver problemas reais do dia a dia das empresas, em projetos como: **automação de atendimento via WhatsApp**, **integrações com APIs fiscais e ERPs**, **ferramentas para bancos Firebird** e **visão computacional**.
+Meu foco é **Infraestrutura de TI**: Windows Server, Active Directory, gerenciamento de usuários, virtualização, firewalls FortiGate e servidores Linux. É onde atuo no dia a dia e onde está minha principal experiência.
+
+Além disso, tenho **conhecimentos complementares** que aplico na prática, como monitoramento, segurança e desenvolvimento de sistemas, para resolver necessidades reais da empresa e de clientes.
+
+## 🖥️ Foco principal: Infraestrutura de TI
 
 ### Windows Server, Active Directory & Virtualização
 
-<sub>Minha área principal: experiência prática no dia a dia de infraestrutura e suporte em empresas.</sub>
+<sub>Área principal: experiência prática no dia a dia de infraestrutura e suporte em empresas.</sub>
 
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0A5CA8?style=flat)
@@ -64,6 +68,10 @@ Profissional de **TI e infraestrutura Windows Server**: domínio, Active Directo
 - Containers com Docker e Docker Compose
 - Rotinas automatizadas com Shell Script e `cron` (backups e manutenção)
 
+## 🧩 Conhecimentos complementares
+
+<sub>Conhecimentos gerais que vou adquirindo e aplicando na prática, em projetos e no dia a dia, sempre a serviço da infraestrutura.</sub>
+
 ### Monitoramento & Segurança
 
 <sub>Conhecimento inicial, já aplicado em ambiente real.</sub>
@@ -76,7 +84,7 @@ Profissional de **TI e infraestrutura Windows Server**: domínio, Active Directo
 
 ### Desenvolvimento aplicado
 
-Meu foco principal é infraestrutura. A programação entra como **complemento prático**: automatizo tarefas e crio sistemas para necessidades reais da empresa e de clientes. É um conhecimento construído na prática, projeto a projeto, e que sigo aprimorando.
+A programação entra como **complemento** ao trabalho de infraestrutura: automatizo tarefas e crio sistemas para necessidades reais da empresa e de clientes. É um conhecimento construído na prática, projeto a projeto, e que sigo aprimorando.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -91,7 +99,7 @@ Meu foco principal é infraestrutura. A programação entra como **complemento p
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-### Principais projetos
+### Projetos desenvolvidos
 
 | Projeto | Descrição | Stack |
 |---|---|---|
