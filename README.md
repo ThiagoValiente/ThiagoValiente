@@ -8,7 +8,7 @@
 
 ---
 
-Profissional de **TI e infraestrutura Windows Server**: domínio, Active Directory, gerenciamento de usuários, políticas de grupo, servidores e máquinas virtuais. Também desenvolvo sistemas que resolvem problemas reais do dia a dia de empresas: **automação de atendimento via WhatsApp**, **integrações com APIs fiscais e ERPs**, **ferramentas para bancos Firebird** e **visão computacional**.
+Profissional de **TI e infraestrutura Windows Server**: domínio, Active Directory, gerenciamento de usuários, políticas de grupo, servidores e máquinas virtuais. Uso a programação como ferramenta para resolver problemas reais do dia a dia das empresas, em projetos como: **automação de atendimento via WhatsApp**, **integrações com APIs fiscais e ERPs**, **ferramentas para bancos Firebird** e **visão computacional**.
 
 ### Windows Server, Active Directory & Virtualização
 
