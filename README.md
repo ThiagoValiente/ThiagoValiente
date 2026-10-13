@@ -1,16 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Thiago%20Alan%20Valiente&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=Windows+Server+e+Active+Directory;Virtualiza%C3%A7%C3%A3o+e+m%C3%A1quinas+virtuais;Automa%C3%A7%C3%A3o+de+atendimento+via+WhatsApp;Integra%C3%A7%C3%B5es+fiscais+(NFS-e)+e+ERPs;Ferramentas+para+bancos+Firebird;Vis%C3%A3o+computacional+com+Python;Servidores+Linux%2C+Docker+e+Nginx" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=620&lines=Windows+Server+e+Active+Directory;Virtualiza%C3%A7%C3%A3o+e+m%C3%A1quinas+virtuais;Firewall+FortiGate+e+VPN;Automa%C3%A7%C3%A3o+de+atendimento+via+WhatsApp;Integra%C3%A7%C3%B5es+fiscais+(NFS-e)+e+ERPs;Ferramentas+para+bancos+Firebird;Vis%C3%A3o+computacional+com+Python;Servidores+Linux%2C+Docker+e+Nginx" alt="Typing SVG"/>
 </p>
 
 <p align="center">📍 Marechal Cândido Rondon - PR</p>
 
 ---
 
-Profissional de **TI e infraestrutura Windows Server**: domínio, Active Directory, gerenciamento de usuários, políticas de grupo, servidores e máquinas virtuais. Uso a programação como ferramenta para resolver problemas reais do dia a dia das empresas, em projetos como: **automação de atendimento via WhatsApp**, **integrações com APIs fiscais e ERPs**, **ferramentas para bancos Firebird** e **visão computacional**.
+Profissional de **TI e infraestrutura Windows Server**: domínio, Active Directory, gerenciamento de usuários, políticas de grupo, servidores e máquinas virtuais, além de **firewalls FortiGate** e **servidores Linux**. Uso a programação como ferramenta para resolver problemas reais do dia a dia das empresas, em projetos como: **automação de atendimento via WhatsApp**, **integrações com APIs fiscais e ERPs**, **ferramentas para bancos Firebird** e **visão computacional**.
 
 ### Windows Server, Active Directory & Virtualização
+
+<sub>Minha área principal: experiência prática no dia a dia de infraestrutura e suporte em empresas.</sub>
 
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0A5CA8?style=flat)
@@ -31,7 +33,24 @@ Profissional de **TI e infraestrutura Windows Server**: domínio, Active Directo
 - **Acesso remoto (RDP / Terminal Server)**, IIS e serviços Windows
 - **Backup, rotinas e automação** com PowerShell e scripts
 
-### Linux & Redes
+### Firewall & Redes — FortiGate
+
+<sub>Experiência prática na configuração e manutenção de firewalls em ambientes de empresas.</sub>
+
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white)
+![FortiGate](https://img.shields.io/badge/FortiGate-C8102E?style=flat&logo=fortinet&logoColor=white)
+![FortiAnalyzer](https://img.shields.io/badge/FortiAnalyzer-DA291C?style=flat&logo=fortinet&logoColor=white)
+![VPN IPSec](https://img.shields.io/badge/VPN-IPSec-444444?style=flat)
+
+- **Políticas de firewall**, objetos de endereço e serviços, NAT e publicação de serviços (VIP)
+- **VPN IPSec** entre unidades (site-to-site) e acesso remoto para usuários
+- **Filtro web e de aplicações**, perfis de segurança e controle de acesso à internet
+- Configuração de **interfaces, VLANs, rotas** e links de internet
+- **Análise de logs e relatórios** com FortiAnalyzer, incluindo uma ferramenta própria para gerar relatórios em PDF
+
+### Linux
+
+<sub>Experiência prática na administração de servidores e na publicação de aplicações.</sub>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
@@ -39,14 +58,11 @@ Profissional de **TI e infraestrutura Windows Server**: domínio, Active Directo
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white)
 
-- Administração de servidores Linux (Ubuntu/Debian) via SSH: usuários, permissões, pacotes e firewall
-- Deploy de aplicações Node.js e Python como serviços `systemd`, com Nginx como proxy reverso e HTTPS
-- Containers com Docker e Docker Compose (aplicação, banco PostgreSQL e Nginx)
-- Automação de rotinas com Shell Script e `cron`: backups, atualização e monitoramento
-- Redes e segurança: VPN IPSec, firewalls Fortinet e análise de logs (FortiAnalyzer)
+- Administração de servidores Linux (Ubuntu/Debian) via SSH: usuários, permissões, pacotes e serviços
+- Publicação de aplicações Node.js e Python, com Nginx como proxy reverso
+- Containers com Docker e Docker Compose
+- Rotinas automatizadas com Shell Script e `cron` (backups e manutenção)
 
 ### Desenvolvimento aplicado
 
