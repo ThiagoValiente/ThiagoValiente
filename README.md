@@ -12,7 +12,7 @@ Meu foco é **Infraestrutura de TI**: Windows Server, Active Directory, gerencia
 
 Além disso, tenho **conhecimentos complementares** que aplico na prática, como monitoramento, segurança e desenvolvimento de sistemas, para resolver necessidades reais da empresa e de clientes.
 
-> ✅ **Tudo o que está listado aqui já foi aplicado em ambientes de produção**, em empresas e clientes reais.
+> ✅ **Tudo o que está listado aqui já foi aplicado em ambientes de produção**, em empresas e clientes reais (exceto os itens marcados com 🆕, que estão em implantação).
 
 ## 🖥️ Foco principal: Infraestrutura de TI
 
@@ -100,6 +100,7 @@ A programação entra como **complemento** ao trabalho de infraestrutura: automa
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white)
 
 ### Projetos desenvolvidos
 
@@ -110,6 +111,7 @@ A programação entra como **complemento** ao trabalho de infraestrutura: automa
 | **Migrador de E-mail** | Migração de e-mails IMAP→IMAP, consolidação de contas e backup local (.mbox/.eml) | Python · imapsync |
 | **Compartilhamento Seguro** | Envio de arquivos self-hosted (estilo WeTransfer) com senha, link único e auditoria | NestJS · React · PostgreSQL · Docker |
 | **Monitor de Telas** | Visualização em tempo real das telas de várias máquinas via WebSocket (agente, relay e painel) | Node.js · WebSocket |
+| **Auditoria de Segurança com IA** 🆕 | Kit de skills para Claude Code que audita apps desktop e web em qualquer linguagem: 81 verificações (OWASP Top 10:2025), relatórios de vulnerabilidade e critérios de liberação de versão *(em implantação)* | Claude Code · PowerShell · OWASP |
 
 #### 💬 WhatsApp e atendimento
 | Projeto | Descrição | Stack |
@@ -149,7 +151,7 @@ A programação entra como **complemento** ao trabalho de infraestrutura: automa
 | **Geladeira Ultra** | Controle de retiradas, pagamentos (Pix/dinheiro), caixa e estoque da geladeira da empresa | Node.js |
 | **Neon Survivors** | Jogo roguelite com integração à Steam | JavaScript · Electron |
 
-<sub>Todos os projetos estão ou estiveram em uso em produção. Os repositórios são privados por conterem sistemas de clientes; fico à disposição para apresentá-los.</sub>
+<sub>Todos os projetos estão ou estiveram em uso em produção, exceto os marcados com 🆕, que estão em implantação. Os repositórios são privados por conterem sistemas de clientes; fico à disposição para apresentá-los.</sub>
 
 ### Atividade
 
